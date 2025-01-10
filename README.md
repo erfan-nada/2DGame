@@ -11,7 +11,7 @@ This project is a 2D game developed in C++ using ASCII code. It features multipl
 - **Obstacles**: Different obstacles that the player must navigate around or overcome.
 - **Elevators and Traps**: Dynamic elements that add complexity to the gameplay.
 - **Checkpoints**: Save points that allow players to respawn after losing all health.
-- 
+  
 ## Installation
 To run the game, follow these steps:
 
